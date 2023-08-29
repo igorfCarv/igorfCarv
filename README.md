@@ -7,10 +7,10 @@ Sou Desenvolvedor Front-End e estou sempre buscando adquirir novos conhecimentos
 
 ### 🌱 Algumas tecnologias/linguagens que trabalho:
   <div>
-    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
