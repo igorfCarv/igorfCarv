@@ -1,8 +1,8 @@
 ## Olá, sou Igor Carvalho!
 Sou Desenvolvedor Front-End e estou sempre buscando adquirir novos conhecimentos.
 <div>
-    <img height= "150em" src="https://github-readme-stats.vercel.app/api?username=igorfcarv&show_icons=true&theme=dark">
-    <img height= "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfcarv&show_icons=true&theme=dark">
+    <img height= "130em" src="https://github-readme-stats.vercel.app/api?username=igorfcarv&show_icons=true&theme=dark">
+    <img height= "130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfcarv&show_icons=true&theme=dark">
 </div>
 
 ### 🌱 Algumas tecnologias/linguagens que trabalho:
