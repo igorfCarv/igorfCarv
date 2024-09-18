@@ -12,7 +12,7 @@ Sou Desenvolvedor Front-End e estou sempre buscando adquirir novos conhecimentos
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+    <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img align="center" height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
